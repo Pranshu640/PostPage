@@ -1,0 +1,44 @@
+h2{
+    color: maroon;
+    text-align: center;
+}
+h3{
+    margin-top: 0.3rem;
+    margin-bottom: 0.75rem;
+}
+h4{
+    margin-top: 0rem;
+}
+
+.post {
+    background-color: blanchedalmond;
+    min-width: 5rem;
+    min-height: 5rem;
+    height: fit-content;
+    width: fit-content;
+    margin: 1rem;
+    border-radius: 20px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.user {
+    font-style: italic;
+}
+
+.links{
+    justify-self: center;
+}
+
+a{
+    background-color: white;
+    padding: 1rem;
+    justify-content: center;
+    border-radius: 10px;
+}
+button{
+
+}
